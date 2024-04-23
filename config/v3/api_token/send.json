@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
     "title": "API Token (request)",
-    "description": "This call manages API tokens",
+    "description": "This call manages API tokens [test]",
     "type": "object",
     "auth_required": 1,
     "auth_scopes": [
